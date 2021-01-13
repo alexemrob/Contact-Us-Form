@@ -1,0 +1,48 @@
+* {
+    font-family: "Arial";
+    color: #4A4A4A;
+    background-color: rgb(233, 233, 233);
+  }
+  h1{
+    font-size: 38px;
+    font-weight: bold;
+  }
+  label{
+      font-size: 16px;
+  }
+  .container {
+    max-width: 500px;
+    margin-left: 100px;
+    padding: 20px;
+    background-color: rgb(233, 233, 233);
+  }
+  .form-group {
+    font-size: 16px;
+    margin-top: 18px;
+  }
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    font-size: 16px;
+    border: 1px solid #0087AA;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    color: #4A4A4A;
+    height: 36px;
+  }
+  #message{
+      height: 120px;
+  }
+  button[type="submit"] {
+    width: 100%;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color: #0087AA;
+    text-align: center;
+    cursor: pointer;
+    height: 36px;
+    margin-top: 36px;
+  }
+  button[type="submit"]:hover {
+    background-color: #1997B7;
+  }

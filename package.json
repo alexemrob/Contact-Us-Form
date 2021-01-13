@@ -1,0 +1,20 @@
+{
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "biz stream full stack assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexemrob/contact-form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.5.1"
+  }
+}
